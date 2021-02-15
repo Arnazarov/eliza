@@ -1,4 +1,4 @@
-# Implementation of eliza in python only using regex library:
+# Implementation of ELIZA in python only using regex library:
 
   Agent:
   
