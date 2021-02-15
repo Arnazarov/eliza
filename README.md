@@ -1,6 +1,7 @@
 # Implementation of eliza in python only using regex library:
 
   Agent:
+  
   • asks for the user’s name and greet that user using her/his name
   
   • recognizes the following feelings: sadness,happyness and joy and its derivates (e.g. sad, happy, joyful, joyfulness, saddened, etc.) within the
